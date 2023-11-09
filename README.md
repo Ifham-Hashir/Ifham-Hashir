@@ -12,4 +12,4 @@
 
 ### 📊 Stats
 
-![Ifham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ifham-Hashir&show_icons=true&theme=github_dark)
+![Ifham's GitHub stats](https://github-readme-stats-ifhamhashirs-projects.vercel.app/api?username=Ifham-Hashir&show_icons=true&theme=github_dark)
