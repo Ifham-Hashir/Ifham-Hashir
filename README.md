@@ -1,5 +1,5 @@
 ### Ifham Hashir
-Student || Learning Java+DSA || WE
+Student || Learning Java+DSA || Web Development
 ---
 
 ### 🧰 Languages and Tools
