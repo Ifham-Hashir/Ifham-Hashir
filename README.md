@@ -12,7 +12,7 @@
 
 ### 📊 Stats
 
-![Ifham's GitHub stats](https://github-readme-stats-ifhamhashirs-projects.vercel.app/api?username=Ifham-Hashir&show_icons=true&theme=github_dark)
+![Ifham's GitHub stats](https://github-readme-stats-ifhamhashirs-projects.vercel.app/api?username=Ifham-Hashir&show_icons=true&theme=dracula)
 
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ifham-Hashir&theme=dracula&hide_border=false" alt="GitHub Streak Stats">
