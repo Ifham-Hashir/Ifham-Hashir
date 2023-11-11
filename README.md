@@ -12,9 +12,9 @@
 
 ### 📊 Stats
 
-![Ifham's GitHub stats](https://github-readme-stats-ifhamhashirs-projects.vercel.app/api?username=Ifham-Hashir&show_icons=true&theme=dracula)
+![Ifham's GitHub stats](https://github-readme-stats-ifhamhashirs-projects.vercel.app/api?username=Ifham-Hashir&show_icons=true&theme=dark)
 
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ifham-Hashir&theme=dracula&hide_border=false" alt="GitHub Streak Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ifham-Hashir&theme=dark&hide_border=false" alt="GitHub Streak Stats">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ifham-Hashir&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ifham-Hashir&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
