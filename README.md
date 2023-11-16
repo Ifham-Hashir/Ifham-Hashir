@@ -1,5 +1,5 @@
 ### Hi there, I am Ifham!
-### Student || Learning Java+DSA || Web Development
+### Student || Learning Java+DSA
 ---
 
 ### 🧰 Languages and Tools
