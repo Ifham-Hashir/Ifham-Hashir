@@ -1,8 +1,8 @@
 ### Hi there, I am Ifham!
 I'm a **frontend developer** who loves building clean, interactive, and user-friendly web experiences.  
 I enjoy turning ideas into code and crafting modern interfaces using **JavaScript**, **React**, and **Tailwind CSS**.  
-
 Currently, I'm enhancing my frontend skills through **The Odin Project** and exploring tools that improve performance and developer experience like **Webpack** and **Git**.
+
 ---
 
 ### 🧰 Languages, Frameworks and Tools
