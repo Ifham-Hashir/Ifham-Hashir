@@ -1,29 +1,25 @@
+# Hi there, I'm Ifham! 👋
+
+I'm a passionate DevOps Engineer focused on automating workflows, building CI/CD pipelines, and managing cloud infrastructure.
+
+---
+
 ## 🚀 Languages, Tools and Technologies
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=linux" title="Linux"/>
-<img src="https://skillicons.dev/icons?i=aws" title="AWS"/>
-<img src="https://skillicons.dev/icons?i=git" title="Git"/>
-<img src="https://skillicons.dev/icons?i=github" title="GitHub"/>
-<img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions"/>
-<img src="https://skillicons.dev/icons?i=jenkins" title="Jenkins"/>
-<img src="https://skillicons.dev/icons?i=ansible" title="Ansible"/>
-<img src="https://skillicons.dev/icons?i=nginx" title="Nginx"/>
-<img src="https://skillicons.dev/icons?i=docker" title="Docker"/>
-<img src="https://skillicons.dev/icons?i=bash" title="Bash"/>
-<img src="https://skillicons.dev/icons?i=python" title="Python"/>
-
-<img src="https://cdn.simpleicons.org/apache/D22128"
-width="48"
-height="48"
-title="Apache"
-style="vertical-align: middle;"/>
-
-<img src="https://cdn.simpleicons.org/yaml/CB171E"
-width="48"
-height="48"
-title="YAML"
-style="vertical-align: middle;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" title="Linux"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" title="AWS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" title="GitHub"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="50" title="GitHub Actions"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50" title="Jenkins"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="50" title="Ansible"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="50" title="Apache"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="50" title="Nginx"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" title="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" title="Bash"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" width="50" title="YAML"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/>
 
 </p>
