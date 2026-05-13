@@ -1,9 +1,3 @@
-# Hi there, I'm Ifham! 👋
-
-I'm a passionate DevOps Engineer focused on automating workflows, building CI/CD pipelines, and managing cloud infrastructure.
-
----
-
 ## 🚀 Languages, Tools and Technologies
 
 <p align="left">
@@ -21,13 +15,15 @@ I'm a passionate DevOps Engineer focused on automating workflows, building CI/CD
 <img src="https://skillicons.dev/icons?i=python" title="Python"/>
 
 <img src="https://cdn.simpleicons.org/apache/D22128"
-     width="48"
-     height="48"
-     title="Apache"/>
+width="48"
+height="48"
+title="Apache"
+style="vertical-align: middle;"/>
 
 <img src="https://cdn.simpleicons.org/yaml/CB171E"
-     width="48"
-     height="48"
-     title="YAML"/>
+width="48"
+height="48"
+title="YAML"
+style="vertical-align: middle;"/>
 
 </p>
