@@ -1,6 +1,6 @@
 # Hi there, I'm Ifham! 👋
 
-I'm a passionate DevOps Engineer focused on automating workflows, building CI/CD pipelines, and managing cloud infrastructure.
+Automating workflows, building CI/CD pipelines, and managing cloud infrastructure.
 
 ---
 ## 🚀 Languages, Tools and Technologies
